@@ -39,21 +39,6 @@ git clone https://github.com/Tanishq9876/VeritasAI.git
 cd veritas
 npm install
 ```
-
-### Add your API key
-
-Create a `.env` file in the root:
-```
-GROQ_API_KEY=your_api_key_here
-```
-
-### Run locally
-```bash
-netlify dev
-```
-
-Open [http://localhost:8888](http://localhost:8888)
-
 ### Build for production
 ```bash
 npm run build
